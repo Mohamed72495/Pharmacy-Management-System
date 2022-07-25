@@ -1,3 +1,3 @@
 # Pharmacy-Management
 
-A JavaFX desktop application
+A Java desktop application for managing the data of a pharmacy
